@@ -1,0 +1,24 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    margin-top: 50px;
+    gap: 5px;
+  }
+  h3{
+    margin-left: 475px;
+    font-size: 30px;
+    color: wheat;
+    position: relative;
+    top: 20px;
+    text-shadow: 1px 1px 1px darkcyan;
+  }
+  img{
+    border: solid 1px white;
+    border-radius: 5px;
+  }
+ body{
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+ }
